@@ -1,0 +1,26 @@
+ui_menu_find_radius_of_black_hole<- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_find_radius_of_black_hole
+=> nrel_main_idtf: 
+	[Какие радиус будет у звезды после превращения в черную дыру?]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос нахождения радиуса звезды после превращения в черную дыру]
+	(* <- lang_ru;; *);;
+
+ui_menu_find_radius_of_black_hole
+=> nrel_main_idtf: 
+	[Which radius star will have after transformation in black hole?]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Request radius of start after transformation in black hole]
+	(* <- lang_en;; *);;
+
+ui_menu_find_radius_of_black_hole => ui_nrel_command_template:
+	[*
+		question_find_black_hole_radius _-> ._question_find_black_hole_radius
+			(*
+				_-> ui_arg_1;;
+			*);;
+		._question_find_black_hole_radius _<- question;;
+	*];;

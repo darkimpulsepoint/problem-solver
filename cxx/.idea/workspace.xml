@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35b208fa-6319-4528-b6b2-eb1ff0919406" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../kb/ui_menu/ui_menu_na_example_commands.scs" beforeDir="false" afterPath="$PROJECT_DIR$/../../kb/ui_menu/ui_menu_na_example_commands.scs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleModule/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exampleModule/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="208wL4vWpEYvn5tsJWASeTV6xba" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b208fa-6319-4528-b6b2-eb1ff0919406" name="Default Changelist" comment="" />
+      <created>1635439463477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635439463477</updated>
+      <workItem from="1635439465043" duration="40000" />
+      <workItem from="1635439952029" duration="182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635440094407">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.29.1920.1051@0.29.1920.1051" timestamp="1635440094407" />
+    <state x="743" y="312" width="424" height="485" key="FileChooserDialogImpl" timestamp="1635440131111">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state x="743" y="312" width="424" height="485" key="FileChooserDialogImpl/0.29.1920.1051@0.29.1920.1051" timestamp="1635440131111" />
+  </component>
+</project>

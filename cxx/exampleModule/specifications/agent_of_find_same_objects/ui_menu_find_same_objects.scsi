@@ -1,0 +1,19 @@
+ui_menu_find_same_objects <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_find_same_objects 
+=> nrel_main_idtf: 
+	[Какие космические объекты похожи на данный?]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос поиска похожих космических объектов]
+	(* <- lang_ru;; *);;
+
+ui_menu_find_same_objects 
+=> nrel_main_idtf: 
+	[Which space objects are same to this?]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Request searches for same space objects]
+	(* <- lang_en;; *);;
+
+
